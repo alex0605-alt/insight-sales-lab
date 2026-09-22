@@ -1,0 +1,13 @@
+{
+  "rows_before": 3632,
+  "rows_after": 3592,
+  "duplicates_removed": 32,
+  "invalid_rows_removed": 8,
+  "extreme_discounts_corrected": 7,
+  "missing_values_before": {
+    "region": 29,
+    "satisfaction": 19
+  },
+  "missing_values_after": 0,
+  "high_value_orders_flagged": 285
+}

@@ -1,0 +1,67 @@
+{
+  "kpis": {
+    "net_revenue": 8834360.77,
+    "gross_profit": 3145570.51,
+    "gross_margin_pct": 35.61,
+    "orders": 3592,
+    "units": 8011,
+    "average_ticket": 2459.45,
+    "return_rate_pct": 6.99,
+    "discount_intensity_pct": 8.88
+  },
+  "top_category": {
+    "category": "Electrónica",
+    "net_revenue": 3470160.19,
+    "gross_profit": 963348.01,
+    "orders": 943
+  },
+  "top_region": {
+    "region": "Centro",
+    "net_revenue": 2278131.47,
+    "gross_profit": 809205.23,
+    "return_rate": 0.061224489795918366
+  },
+  "lowest_margin_products": [
+    {
+      "category": "Electrónica",
+      "product": "Monitor 24 pulgadas",
+      "net_revenue": 2276166.36,
+      "gross_profit": 516651.79,
+      "margin_pct": 22.7
+    },
+    {
+      "category": "Oficina",
+      "product": "Silla ergonómica",
+      "net_revenue": 1697267.92,
+      "gross_profit": 544379.43,
+      "margin_pct": 32.07
+    },
+    {
+      "category": "Electrónica",
+      "product": "Teclado mecánico",
+      "net_revenue": 787076.52,
+      "gross_profit": 280044.58,
+      "margin_pct": 35.58
+    },
+    {
+      "category": "Hogar",
+      "product": "Cafetera programable",
+      "net_revenue": 970801.44,
+      "gross_profit": 363163.51,
+      "margin_pct": 37.41
+    },
+    {
+      "category": "Deportes",
+      "product": "Mancuernas 10 kg",
+      "net_revenue": 528029.81,
+      "gross_profit": 197708.95,
+      "margin_pct": 37.44
+    }
+  ],
+  "insights": [
+    "Electrónica lidera los ingresos netos.",
+    "Centro es la región con mayor facturación.",
+    "El margen bruto global es 35.61%.",
+    "La tasa de devolución es 6.99%."
+  ]
+}
